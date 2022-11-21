@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning javascript and datastructures
 
 
-[![@gwydion67's Holopin board](https://holopin.me/gwydion67)](https://holopin.io/@gwydion67)
+[![@gwydion67's Holopin board](https://holopin.me/gwydion67)]
 
 <!--
 **gwydion67/gwydion67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
