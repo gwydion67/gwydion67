@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### Gwydion here 
-- 💻 languages i know <b>
-  : (intermediate) :: Java, C++ <b>
-  : (learning) :: javascript, nodejs <b>
+- 💻 languages i know <br>
+  : (intermediate) :: Java, C++ <br>
+  : (learning) :: javascript, nodejs <br>
   : (in list) :: golang <b>
 - 🌱 I’m currently learning javascript and datastructures
 
