@@ -2,6 +2,7 @@
 ### Gwydion here 
 - 💻 languages i know <br>
   : (intermediate) :: Java, C++ <br>
+  : (basic) :: HTML, CSS
   : (learning) :: javascript, nodejs <br>
   : (in list) :: golang <b>
 - 🌱 I’m currently learning javascript and datastructures
