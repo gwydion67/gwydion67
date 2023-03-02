@@ -5,7 +5,6 @@
   : (basic) :: HTML, CSS , javascript <br>
   : (learning) :: nodejs <br>
   : (in list) :: golang <br>
-- 🌱 I’m currently learning javascript and datastructures
 
 
 
