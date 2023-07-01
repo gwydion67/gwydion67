@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋[![@gwydion67's Dev Card]([https://holopin.me/gwydion67](https://api.daily.dev/devcards/2e57308cbca44557aa034d9a3d90170d.png?r=hi0))]([https://holopin.io/@gwydion67](https://app.daily.dev/gwydion67))
 ### Gwydion here 
 - 💻 languages i know <br>
   : (intermediate) :: Java, C++ <br>
