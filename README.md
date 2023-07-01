@@ -7,7 +7,7 @@
   : (in list) :: golang <br>
 
 
-
+<a href="https://app.daily.dev/gwydion67"><img src="https://api.daily.dev/devcards/2e57308cbca44557aa034d9a3d90170d.png?r=hi0" width="400" alt="Abhishek Kumar's Dev Card"/></a>
 [![@gwydion67's Holopin board](https://holopin.me/gwydion67)](https://holopin.io/@gwydion67)
 
 <!--
