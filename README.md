@@ -1,4 +1,4 @@
-### Hi there 👋 <a href="https://app.daily.dev/gwydion67"><img style="float: right;" src="https://api.daily.dev/devcards/2e57308cbca44557aa034d9a3d90170d.png?r=hi0" height="400"  width="300" alt="Abhishek Kumar's Dev Card"/></a>
+### Hi there 👋 <a href="https://app.daily.dev/gwydion67"><img style="float: right; margin: auto;" src="https://api.daily.dev/devcards/2e57308cbca44557aa034d9a3d90170d.png?r=hi0" height="400"  width="300" alt="Abhishek Kumar's Dev Card"/></a>
 
 ### Gwydion here 
 - 💻 languages i know <br>
@@ -6,7 +6,6 @@
   : (basic) :: HTML, CSS , javascript <br>  
   : (learning) :: nodejs <br> 
   : (in list) :: golang <br>
-  <hr>
 
 [![@gwydion67's Holopin board](https://holopin.me/gwydion67)](https://holopin.io/@gwydion67)
 
