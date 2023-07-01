@@ -1,9 +1,10 @@
-### Hi there 👋[![@gwydion67's Dev Card](https://api.daily.dev/devcards/2e57308cbca44557aa034d9a3d90170d.png?r=hi0)](https://app.daily.dev/gwydion67)
+### Hi there 👋
 
 ### Gwydion here 
 - 💻 languages i know <br>
   : (intermediate) :: Java, C++ <br>
-  : (basic) :: HTML, CSS , javascript <br>
+  : (basic) :: HTML, CSS , javascript <a href="https://app.daily.dev/gwydion67"><img src="https://api.daily.dev/devcards/2e57308cbca44557aa034d9a3d90170d.png?r=hi0" width="200" alt="Abhishek Kumar's Dev Card"/></a>
+<br>  
   : (learning) :: nodejs <br>
   : (in list) :: golang <br>
 
