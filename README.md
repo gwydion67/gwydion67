@@ -2,10 +2,10 @@
 
 ### Gwydion here 
 - 💻 languages i know <br>
-  : (intermediate) :: Java, C++ <br>
-  : (basic) :: HTML, CSS , javascript <br>  
-  : (learning) :: nodejs <br> 
-  : (in list) :: golang <br>
+  : (intermediate) :: Java, C++, HTML, CSS  <br>
+  : (basic) :: javascript <br>  
+  : (learning) :: nodejs, golang <br> 
+  : (in list) :: bash <br>
 
 [![@gwydion67's Holopin board](https://holopin.me/gwydion67)](https://holopin.io/@gwydion67)
 
