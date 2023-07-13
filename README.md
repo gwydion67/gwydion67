@@ -9,6 +9,19 @@
 
 [![@gwydion67's Holopin board](https://holopin.me/gwydion67)](https://holopin.io/@gwydion67)
 
+<a href="https://github.com/gwydion67">
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gwydion67&layout=compact&langs_count=8&theme=nightowl"/>
+</a>
+<a href="https://github.com/gwydion67">
+<img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gwydion67&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
+</a>
+
+<br>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=gwydion67&style=flat-square" align="right"/>
+</a> 
+</p>
+
 <!--
 **gwydion67/gwydion67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
