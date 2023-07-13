@@ -10,10 +10,10 @@
 [![@gwydion67's Holopin board](https://holopin.me/gwydion67)](https://holopin.io/@gwydion67)
 <div>
 <a href="https://github.com/gwydion67">
-<img width="45%" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gwydion67&layout=compact&langs_count=8&theme=nightowl"/>
+<img width="45%" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gwydion67&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 <a href="https://github.com/gwydion67">
-<img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gwydion67&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right" />
+<img width="45%" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gwydion67&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right" />
 </a>
 </div>
 
