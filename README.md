@@ -2,8 +2,8 @@
 
 ### Gwydion here 
 - 💻 languages i know <br>
-  : (intermediate):: Java, C++, HTML, CSS, React Native, Javascript, Python, React  <br>
-  : (basic) :: bash,nodejs  <br>  
+  : (intermediate)::  C++, HTML, CSS, React Native, Javascript, Python, React  <br>
+  : (basic) :: bash,nodejs ,Java <br>  
   : (learning) :: golang, Django <br> 
   : (in list) :: rust <be>
 
