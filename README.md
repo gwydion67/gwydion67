@@ -1,13 +1,20 @@
-### Hi there 👋 <a href="https://app.daily.dev/gwydion67"><img style=" postion: absolute; top: 0; float: right; margin:0 20px 20px 0; padding: 5px" src="https://api.daily.dev/devcards/2e57308cbca44557aa034d9a3d90170d.png?r=h0u" height="auto"  width="250px" alt="Abhishek Kumar's Dev Card"/></a>
+<div ><p style=" display: inline;font-size: 32; font-weight: bold;"> Hi there 👋</p> <a href="https://app.daily.dev/gwydion67"><img align="right" padding: 5px" src="https://api.daily.dev/devcards/2e57308cbca44557aa034d9a3d90170d.png?r=h0u" height="auto"  width="250px" alt="Abhishek Kumar's Dev Card"/></a><hr></div>
 
 ### Gwydion here 
 - 💻 languages i know <br>
-  : (intermediate) :: Java, C++, HTML, CSS, React Native  <br>
-  : (basic) :: javascript, Python <br>  
-  : (learning) :: nodejs, golang, Django <br> 
-  : (in list) :: bash <br>
+  : (intermediate):: Java, C++, HTML, CSS, React Native, Javascript, Python, React  <br>
+  : (basic) :: bash,nodejs  <br>  
+  : (learning) :: golang, Django <br> 
+  : (in list) :: rust <be>
 
-[![@gwydion67's Holopin board](https://holopin.me/gwydion67)](https://holopin.io/@gwydion67)
+
+  <div>
+    <a href="https://holopin.io/@gwydion67">
+      <hr>
+        <img src="https://holopin.me/gwydion67" alt="@gwydion67's Holopin board">
+    </a>    
+  </div>
+
 <div>
 <a href="https://github.com/gwydion67">
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gwydion67&layout=compact&langs_count=8&theme=nightowl"/>
