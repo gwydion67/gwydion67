@@ -7,14 +7,14 @@
   : (learning) :: golang, Django <br> 
   : (in list) :: rust <be>
 
-
+<!--
   <div>
     <a href="https://holopin.io/@gwydion67">
       <hr>
         <img src="https://holopin.me/gwydion67" alt="@gwydion67's Holopin board">
     </a>    
   </div>
-
+-->
 <div>
 <a href="https://github.com/gwydion67">
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gwydion67&layout=compact&langs_count=8&theme=nightowl"/>
