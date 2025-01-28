@@ -1,4 +1,9 @@
-<div ><p style=" display: inline;font-size: 32; font-weight: bold;"> Hi there 👋</p> <a href="https://app.daily.dev/gwydion67"><img align="right" padding: 5px" src="https://api.daily.dev/devcards/2e57308cbca44557aa034d9a3d90170d.png?r=h0u" height="auto"  width="250px" alt="Abhishek Kumar's Dev Card"/></a><hr></div>
+<div ><p style=" display: inline;font-size: 32; font-weight: bold;"> Hi there 👋</p> 
+  <!--
+<a href="https://app.daily.dev/gwydion67"><img align="right" padding: 5px" src="https://api.daily.dev/devcards/2e57308cbca44557aa034d9a3d90170d.png?r=h0u" height="auto"  width="250px" alt="Abhishek Kumar's Dev Card"/></a>
+  -->
+<hr>
+</div>
 
 ### Gwydion here 
 - 💻 languages i know <br>
